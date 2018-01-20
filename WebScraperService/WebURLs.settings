@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SneakerBot.WebScraping.Service" GeneratedClassName="WebURLs">
+  <Profiles />
+  <Settings>
+    <Setting Name="Rebel" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.rebelsport.com.au/store/footwear/1?page=1&amp;pageSize=12&amp;sort=-ProductSummaryPurchasesWeighted%2C-ProductSummaryPurchases&amp;gclid=EAIaIQobChMI3JjU_L781wIVECQrCh07uQbGEAAYASACEgJO1vD_BwE&amp;gclsrc=aw.ds</Value>
+    </Setting>
+    <Setting Name="AIOBot" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://aiobot.com/releases</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
